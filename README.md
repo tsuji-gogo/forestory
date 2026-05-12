@@ -15,12 +15,12 @@ HTML / CSS / JavaScript を使って構築した、資格試験の合格体験�
 - JavaScript（DOM 操作 / イベント処理）
 
 ## ディレクトリ構成
-/index.html
+/index.html  
 /css
-└ style.css
+└ style.css  
 /js
 ├ main.js
-└ article-toc.js
+└ article-toc.js  
 /articles
-└ java-bronze-1
+└ java-bronze-1  
 /images
