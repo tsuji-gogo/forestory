@@ -16,11 +16,11 @@ HTML / CSS / JavaScript を使って構築した、資格試験の合格体験�
 
 ## ディレクトリ構成
 /index.html  
-/css 
+/css  
 └ style.css  
-/js 
-├ main.js 
+/js  
+├ main.js  
 └ article-toc.js  
-/articles 
+/articles  
 └ java-bronze-1  
 /images 
